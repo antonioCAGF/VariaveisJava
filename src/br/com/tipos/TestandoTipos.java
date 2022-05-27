@@ -7,27 +7,27 @@ public class TestandoTipos {
 
 		Scanner keyboard = new Scanner(System.in);
 
-		System.out.println("Como funciona o tipo intw");
+		System.out.println("Como funciona o tipo int?");
 		System.out.println();
 		System.out.println(
-				"Declarar valores do tipo inteiro (int), isso vale para números que não possuem casas decimais");
+				"Declarar valores do tipo inteiro (int), isso vale para nÃºmeros que nÃ£o possuem casas decimais");
 		System.out.println();
 		System.out.println("Exemplo:");
 		System.out.println();
-		System.out.println("Digite apenas um número qualquer: ");
+		System.out.println("Digite apenas um nÃºmero qualquer: ");
 		int um = keyboard.nextInt();
-		System.out.println("Você acabou de digitar um valor inteiro: " + um);
+		System.out.println("VocÃª acabou de digitar um valor inteiro: " + um);
 
 		System.out.println();
-		System.out.println("Para que serve o a declaração double?");
+		System.out.println("Para que serve o a declaraÃ§Ã£o double?");
 		System.out.println();
-		System.out.println("Declarar valores do tipo double, isso vale para números com casas decimais");
+		System.out.println("Declarar valores do tipo double, isso vale para nÃºmeros com casas decimais");
 		System.out.println();
 		System.out.println("Exemplo:");
 		System.out.println();
-		System.out.println("Digite um valor com uma casa decimal (acrescente vírgula, Exemplo: 2,5): ");
+		System.out.println("Digite um valor com uma casa decimal (acrescente vÃ­rgula, Exemplo: 2,5): ");
 		double dois = keyboard.nextDouble();
-		System.out.println("Você acabou de digitar um valor double: " + dois);
+		System.out.println("VocÃª acabou de digitar um valor double: " + dois);
 
 		System.out.println();
 		System.out.println("Para que serve uma String?");
@@ -38,20 +38,20 @@ public class TestandoTipos {
 		System.out.println();
 		System.out.println("Digite seu nome por exemplo");
 		String generico = keyboard.next();
-		System.out.println("Você acabou de digitar um tipo String: " + generico);
+		System.out.println("VocÃª acabou de digitar um tipo String: " + generico);
 
 		System.out.println();
-		System.out.println("Para que serve a declaração char?");
+		System.out.println("Para que serve a declaraÃ§Ã£o char?");
 		System.out.println();
 		System.out.println("Tipo char, isso serve para utilizar apenas um caracter");
 		System.out.println();
 		System.out.println("Exemplo:");
 		System.out.println();
-		System.out.println("Digite uma letra ou um número");
+		System.out.println("Digite uma letra ou um nÃºmero");
 		String caracter = keyboard.next();
-		System.out.println("Você acabou de digitar um valor Char: " + caracter);
+		System.out.println("VocÃª acabou de digitar um valor Char: " + caracter);
 		System.out.println();
-		System.out.println("Fim do programa! Agora você já sabe na prática os principais tipos de variáveis e como utiliza-lás");
+		System.out.println("Fim do programa! Agora vocÃª jÃ¡ sabe na prÃ¡tica os principais tipos de variÃ¡veis e como utiliza-lÃ¡s");
 		System.out.println();
 		System.out.println("Boa sorte e bons estudos!! :D");
 	}
