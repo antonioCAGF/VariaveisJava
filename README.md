@@ -6,8 +6,8 @@ após testar o código, recomendo que repita o processo, mas claro o que vale é
  
 		// Instagram: @pikdev_
 
-			// Youtube: @Pikachu Gamer
+		// Youtube: @Pikachu Gamer
 		
-			// GitHub: @antonioCAGF
+		// GitHub: @antonioCAGF
 		
-			// Linkedin: https://www.linkedin.com/in/antonio-guimar%C3%A3es-007ba61a8
+		// Linkedin: https://www.linkedin.com/in/antonio-guimar%C3%A3es-007ba61a8
