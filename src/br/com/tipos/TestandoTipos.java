@@ -4,10 +4,18 @@ import java.util.Scanner;
 
 public class TestandoTipos {
 	public static void main(String[] args) {
+		
+		// Instagram: @pikdev_
+
+		// Youtube: @Pikachu Gamer
+		
+		// GitHub: @antonioCAGF
+		
+		// Linkedin: https://www.linkedin.com/in/antonio-guimar%C3%A3es-007ba61a8
 
 		Scanner keyboard = new Scanner(System.in);
 
-		System.out.println("Como funciona o tipo intw");
+		System.out.println("Como funciona o tipo int?");
 		System.out.println();
 		System.out.println(
 				"Declarar valores do tipo inteiro (int), isso vale para números que não possuem casas decimais");
